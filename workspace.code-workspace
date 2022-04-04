@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\React_Js\\Reactjs"
+		},
+		{
+			"path": "..\\..\\CodeGym\\BTES6"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\nrodichvu_backup"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\PHP"
+		},
+		{
+			"path": "..\\..\\Dmobile"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MyCV"
+	}
+}
